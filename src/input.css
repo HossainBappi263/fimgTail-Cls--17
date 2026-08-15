@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+  --spacing-mContainer: 1320px; 
+   --color-topHead: #666666;
+   --font-bappi: "Jost", sans-serif;
+}
